@@ -1,0 +1,152 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 4rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+
+
+}
+
+h3 {
+  color: #11999E;
+}
+
+  .top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+
+  }
+
+
+  .cloud-bottom {
+    position: absolute;
+    left: 250px;
+  }
+
+  .cloud-top {
+    position: relative;
+    left: 250px;
+  }
+
+  .profile {
+    margin-top: 60px;
+  }
+
+  hr {
+    border-bottom: none;
+    color: #EAF6F6;
+    border-style: dotted;
+    width: 6%;
+    margin: 100px auto;
+  }
+
+
+  .skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+   }
+   a {
+
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+
+  p {
+    line-height: 2;
+    margin: auto;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+
+  }
+
+  .one-photo {
+    margin-right: 20px;
+    float: left;
+  }
+
+  .two-photo {
+    float: right;
+    margin-left: 20px;
+  }
+
+
+  .bottom-container {
+    background-color: #66BFBF;
+    height: 100px;
+    padding-top: 30px;
+
+  }
+
+
+  a {
+    color: #11999E;
+    text-decoration: none;
+
+  }
+  a:hover {
+    color: #34d9d1;
+  }
+
+
+  .last-p {
+    color: #EAF6F6;
+    margin: 20px auto 0px auto;
+  }
+
+  .one-p {
+    width: 40%;
+  }
+
+  .contact-me {
+    margin-bottom: 80px;
+  }
+
+
+  .contact-message{
+    margin-bottom: 50px;
+    width: 40%;
+  }
+
+
+  .btn {
+  background: #34d9d1;
+  background-image: -webkit-linear-gradient(top, #34d9d1, #2bb8b8);
+  background-image: -moz-linear-gradient(top, #34d9d1, #2bb8b8);
+  background-image: -ms-linear-gradient(top, #34d9d1, #2bb8b8);
+  background-image: -o-linear-gradient(top, #34d9d1, #2bb8b8);
+  background-image: linear-gradient(to bottom, #34d9d1, #2bb8b8);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Merriweather', serif;
+  color: #ffffff;
+  font-size: 22px;
+  padding: 12px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cfcec;
+  background-image: -webkit-linear-gradient(top, #3cfcec, #34d9d1);
+  background-image: -moz-linear-gradient(top, #3cfcec, #34d9d1);
+  background-image: -ms-linear-gradient(top, #3cfcec, #34d9d1);
+  background-image: -o-linear-gradient(top, #3cfcec, #34d9d1);
+  background-image: linear-gradient(to bottom, #3cfcec, #34d9d1);
+  text-decoration: none;
+}
